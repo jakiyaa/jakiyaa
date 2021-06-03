@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--
 **developeranaz/developeranaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![VISITORS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjakiya99&count_bg=%23FF1A00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+[![VISITORS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrew&count_bg=%23FF1A00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### Github Stats
 
